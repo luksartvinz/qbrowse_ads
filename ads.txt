@@ -1,2 +1,3 @@
 img: https://raw.githubusercontent.com/luksartvinz/qbrowse_ads/main/ads.png
 text: Quick Browse ADS Test
+link: everyblog.my.canva.site
