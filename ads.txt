@@ -1,0 +1,2 @@
+img:
+text: Quick Browse ADS Test
